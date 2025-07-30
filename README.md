@@ -47,9 +47,8 @@ This project uses Python, machine learning, and NLP techniques to detect fake ne
 
 | File/Folder         | Description                             |
 |---------------------|-----------------------------------------|
-| `app.py`            | Streamlit web app for live demo         |
-| `notebook.ipynb`    | Jupyter notebook: data processing, modeling, evaluation   |
-| `requirements.txt`  | All necessary Python dependencies       |
+| `untitled.py`            | Streamlit web app for live demo         |
+| `xyzw.ipynb`    | Jupyter notebook: data processing, modeling, evaluation   |
 | `lr_model.joblib`   | Trained Logistic Regression model       |
 | `vectorizer.joblib` | Trained TF-IDF vectorizer              |
 | `README.md`         | Project overview and instructions       |
@@ -73,17 +72,11 @@ The project is showcased via a **Streamlit web app**.
 
 ---
 
-## License
+ 
+ ## Acknowledgments
 
-This project is open-source under the MIT License.
-
----
-
-## Acknowledgments
-
-- [Kaggle](https://kaggle.com/) for datasets
+- [Kaggle]((https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)) for datasets
 - Streamlit, Scikit-learn, NLTK, Pandas for powerful open-source tools
 
 ---
 
-**Showcase your project by running the Streamlit web app and sharing the URL or a deployment link!**
